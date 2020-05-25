@@ -39,4 +39,3 @@ showTimes = () => {
   }
   return result;
 }
-

@@ -18,7 +18,8 @@
   },
   "devDependencies": {
     "request": "^2.81.0",
-    "tape": "^4.7.0"
+    "tape": "^4.7.0",
+    "amqplib": "*"
   },
   "repository": {
     "type": "git",
